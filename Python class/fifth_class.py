@@ -107,5 +107,6 @@
 
 
 number = 4
-result = number %2==0:
+if number > 5:
+        print('ok')
 
