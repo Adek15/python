@@ -109,4 +109,6 @@
 number = 4
 if number > 5:
         print('ok')
+else:
+        print('not ok')
 
